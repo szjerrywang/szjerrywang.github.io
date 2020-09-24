@@ -1,7 +1,7 @@
 # Setup
 title: Jerry Wang's Blog
 tagline: "Jerry Wang's Blog"
-description: 'Jerry Wang's Blog'
+description: "Jerry Wang's Blog"
 url: https://szjerrywang.github.io
 baseurl: ""
 paginate: 5
